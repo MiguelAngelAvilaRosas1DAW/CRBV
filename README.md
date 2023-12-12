@@ -30,23 +30,30 @@ popular y modificarlo para que quedara como a mi me gustaba, añadiendo eventos,
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./readme-img/hero.png" alt="imagen de hero section" style="width:50%">
+<img src="./readme-img/Readme-Hero" alt="imagen de hero section" style="width:50%">
 <p>He utilizado una imagen de fondo tomada de .... que se adapta fácilmente a diferentes dispositivos....<br>
 Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
 (una breve explicación)</p>
 
-<h3>Introducción</h3>
-<img src="./bm-readme/intro.png" alt="imagen de hero section" style="width:50%">
-<p>He dispuesto en un grid de 2 columnas....</p>
+<h3>Sinopsis</h3>
+<img src="./readme-img/Readme-Sinopsis" alt="" style="width:50%">
+<p></p>
 
-.......
+<h3>OST (Soundtrack del juego)</h3>
+<img src="./readme-img/Readme-OST" alt="" style="width:50%">
+<p></p>
 
+<h3>Autores</h3>
+<img src="./readme-img/Readme-Autores" alt="" style="width:50%">
+<p></p>
 
-
-<p>y aqui pongo <b>lo que quiera</b></p>
+<h3>FanArt</h3>
+<img src="./readme-img/Readme-FanArt" alt="" style="width:50%">
+<p></p>
 
 <h3>Footer</h3>
-<p>breve explicación </p>
+<img src="./readme-img/Readme-Footer" alt="" style="width:50%">
+<p></p>
 
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
