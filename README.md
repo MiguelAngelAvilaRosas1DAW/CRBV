@@ -19,11 +19,13 @@
 popular y modificarlo para que quedara como a mi me gustaba, añadiendo eventos, cambiando imagenes, etc...</p>
 
 <h2 id="estructura">Estructura</h2>
-<p>La web está dividida en  X secciones:</p>
+<p>La web está dividida en 6 secciones:</p>
 <ul>
-  <li>Hero Section</li>  
-  <li>Introducción</li>
-  <li>...</li>
+  <li>Hero Section</li>
+  <li>Sinopsis</li>  
+  <li>OST (Soundtrack del juego)</li>
+  <li>Autores</li>
+  <li>FanArt (Galeria)</li>
   <li>Footer</li>
 </ul>
 
