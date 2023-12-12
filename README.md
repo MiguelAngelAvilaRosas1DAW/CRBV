@@ -40,19 +40,19 @@ Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
 <p></p>
 
 <h3>OST (Soundtrack del juego)</h3>
-<img src="./Readme-img/Readme-OST.png" alt="Imagen de la " style="width:50%">
+<img src="./Readme-img/Readme-OST.png" alt="Imagen de la sección 'OST'" style="width:50%">
 <p></p>
 
 <h3>Autores</h3>
-<img src="./Readme-img/Readme-Autores.png" alt="" style="width:50%">
+<img src="./Readme-img/Readme-Autores.png" alt="Imagen de la sección 'Autores'" style="width:50%">
 <p></p>
 
 <h3>FanArt</h3>
-<img src="./readme-img/Readme-FanArt.png" alt="" style="width:50%">
+<img src="./Readme-img/Readme-FanArt.png" alt="Imagen de la sección 'FanArt'" style="width:50%">
 <p></p>
 
 <h3>Footer</h3>
-<img src="./readme-img/Readme-Footer.png" alt="" style="width:50%">
+<img src="./Readme-img/Readme-Footer.png" alt="Imagen de la sección 'Footer'" style="width:50%">
 <p></p>
 
 <h2 id="estilo">Estilo de la página</h2>
