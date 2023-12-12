@@ -1,21 +1,22 @@
 <h1>Memoria del proyecto fin de evaluación de Lenguajes de Marcas - 1º DAW</h1>
-<h2>CRBV - Official Webside</h2>
+<h2>CRBV - Official Website</h2>
 <h2>Indice</h2>
 <ul>
-  <li><a href="#sinopsis">Sinopsis</a></li>
-  <li><a href="#ost">OST</a></li>
-  <li><a href="#autores">autores</a></li>
+  <li><a href="#introduccion">Introducción</a></li>
+  <li><a href="#motivacion">Motivación</a></li>
+  <li><a href="#estructura">Estructura</a></li>
   <li><a href="#estilo">Estilo</a></li>
 </ul>
 
-<h2 id="sinopsis">Introducción</h2>
-<p>Trabajo realizado en clase por: Pilar González Augusto</p>
+<h2 id="introduccion">Introducción</h2>
+<p>Trabajo realizado por: Miguel Ángel Ávila Rosas</p>
 <p>Proyecto de web "from scratch" de 1ª evaluación de Lenguajes de Marcas</p>
 <p>Diciembre de 2023 </p>
 <p>Licencia CC-BY</p>
 
-<h2 id="ost">Motivación</h2>
-<p>El tema lo he elegido porque ...</p>
+<h2 id="motivacion">Motivación</h2>
+<p>El tema elejido proviene de un proyecto que realice en verano, se trataba de coger un "Mod" de un juego<br>
+popular y modificarlo para que quedara como a mi me gustaba, añadiendo eventos, cambiando imagenes, etc...</p>
 
 <h2 id="estructura">Estructura</h2>
 <p>La web está dividida en  X secciones:</p>
