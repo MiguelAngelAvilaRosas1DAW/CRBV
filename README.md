@@ -30,7 +30,7 @@ popular y modificarlo para que quedara como a mi me gustaba, añadiendo eventos,
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./bm-readme/hero.png" alt="imagen de hero section" style="width:50%">
+<img src="./readme-img/hero.png" alt="imagen de hero section" style="width:50%">
 <p>He utilizado una imagen de fondo tomada de .... que se adapta fácilmente a diferentes dispositivos....<br>
 Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
 (una breve explicación)</p>
