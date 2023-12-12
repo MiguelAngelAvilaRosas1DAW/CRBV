@@ -32,7 +32,7 @@ popular y modificarlo para que quedara como a mi me gustaba, añadiendo eventos,
 <h3>Hero Section</h3>
 <img src="./Readme-img/Readme-Hero.png" alt="Imagen de la sección 'Hero'" style="width:50%">
 <p>La sección Hero esta compuesta por varias imagenes sacadas de los archivos del Mod, todas las imagenes<br>
-pertenecen a <a href="https://www.youtube.com/@DyanEstella">DyanEstella</a>, el autor original del Mod, un poco mas abajo se encuentra un boton de descarga<br>
+pertenecen a <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, el autor original del Mod, un poco mas abajo se encuentra un boton de descarga<br>
 para descargar el mod y probarlo por ti mismo</p>
 
 <h3>Sinopsis</h3>
