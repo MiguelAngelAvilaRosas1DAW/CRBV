@@ -30,29 +30,29 @@ popular y modificarlo para que quedara como a mi me gustaba, añadiendo eventos,
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./readme-img/Readme-Hero" alt="imagen de hero section" style="width:50%">
+<img src="./readme-img/Readme-Hero.png" alt="Imagen de la sección 'Hero'" style="width:50%">
 <p>He utilizado una imagen de fondo tomada de .... que se adapta fácilmente a diferentes dispositivos....<br>
 Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
 (una breve explicación)</p>
 
 <h3>Sinopsis</h3>
-<img src="./readme-img/Readme-Sinopsis" alt="" style="width:50%">
+<img src="./readme-img/Readme-Sinopsis.png" alt="Imagen de la sección 'Sinopsis'" style="width:50%">
 <p></p>
 
 <h3>OST (Soundtrack del juego)</h3>
-<img src="./readme-img/Readme-OST" alt="" style="width:50%">
+<img src="./readme-img/Readme-OST.png" alt="Imagen de la " style="width:50%">
 <p></p>
 
 <h3>Autores</h3>
-<img src="./readme-img/Readme-Autores" alt="" style="width:50%">
+<img src="./readme-img/Readme-Autores.png" alt="" style="width:50%">
 <p></p>
 
 <h3>FanArt</h3>
-<img src="./readme-img/Readme-FanArt" alt="" style="width:50%">
+<img src="./readme-img/Readme-FanArt.png" alt="" style="width:50%">
 <p></p>
 
 <h3>Footer</h3>
-<img src="./readme-img/Readme-Footer" alt="" style="width:50%">
+<img src="./readme-img/Readme-Footer.png" alt="" style="width:50%">
 <p></p>
 
 <h2 id="estilo">Estilo de la página</h2>
