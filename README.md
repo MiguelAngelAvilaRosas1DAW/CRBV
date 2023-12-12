@@ -41,7 +41,15 @@ para dar contexto, el triler, de nuevo, fue sacado del canal de <a href="https:/
 
 <h3>OST (Soundtrack del juego)</h3>
 <img src="./Readme-img/Readme-OST.png" alt="Imagen de la sección 'OST'" style="width:50%">
-<p></p>
+<p>Esta sección contiene el Soundtrack de todo el juego, sacado de los 5 compositores que hicieron el juego:</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/@funnymanisfunny" target="_blank">funny man</a></li>
+  <li><a href="https://www.youtube.com/@blazingrose_5624" target="_blank">ImThatBlueWolf</a></li>  
+  <li><a href="https://www.youtube.com/@buttercakeee" target="_blank">buttercakeee</a></li>
+  <li><a href="https://www.youtube.com/@ValorGenesect" target="_blank">ValorGenesect</a></li>
+  <li><a href="https://www.youtube.com/@therealjojo8878" target="_blank">TheRealJojo</a></li>
+</ul>
 
 <h3>Autores</h3>
 <img src="./Readme-img/Readme-Autores.png" alt="Imagen de la sección 'Autores'" style="width:50%">
