@@ -62,7 +62,8 @@ para dar contexto, el triler, de nuevo, fue sacado del canal de <a href="https:/
 
 <h3>Footer</h3>
 <img src="./Readme-img/Readme-Footer.png" alt="Imagen de la sección 'Footer'" style="width:50%">
-<p></p>
+<p>El footer incluye la imagen del icono del juego, ademas de una versión resumida de la barra de navegación,<br>
+   ademas estan mis redes sociales tanto de youtube (que tiene gameplay de esta versión), como de linkedin.</p>
 
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
