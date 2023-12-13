@@ -53,11 +53,12 @@ para dar contexto, el triler, de nuevo, fue sacado del canal de <a href="https:/
 
 <h3>Autores</h3>
 <img src="./Readme-img/Readme-Autores.png" alt="Imagen de la sección 'Autores'" style="width:50%">
-<p>En esta sección se encuentran cards de el creador del mod de corrupción, <a href="https://www.youtube.com/@DyanEstella" target="_blank">Phantom Fear</a>, y el creador original de Funkin<br>Corruption Reimagened, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, con sus enlaces a youtube correspondientes clicando en su imagen de perfil.</p>
+<p>En esta sección se encuentran cards de el creador del mod de corrupción, <a href="https://www.youtube.com/@DyanEstella" target="_blank">Phantom Fear</a>, y el creador original de Funkin<br>Corruption Reimagened, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, con sus enlaces a youtube correspondientes clicando en su imagen de perfil.<br>El snippet de las cards apareceran al final del "readme".</p>
 
 <h3>FanArt</h3>
 <img src="./Readme-img/Readme-FanArt.png" alt="Imagen de la sección 'FanArt'" style="width:50%">
-<p></p>
+<p>En esta ultima sección, he decidido poner muchos de los mejores "FanArts" del mod, todos estos tienen un nivel<br>
+   de esfuerzo extraordinario y por eso creo que merecen una aparición.</p>
 
 <h3>Footer</h3>
 <img src="./Readme-img/Readme-Footer.png" alt="Imagen de la sección 'Footer'" style="width:50%">
