@@ -58,7 +58,8 @@ para dar contexto, el triler, de nuevo, fue sacado del canal de <a href="https:/
 <h3>FanArt</h3>
 <img src="./Readme-img/Readme-FanArt.png" alt="Imagen de la sección 'FanArt'" style="width:50%">
 <p>En esta ultima sección, he decidido poner muchos de los mejores "FanArts" del mod, todos estos tienen un nivel<br>
-   de esfuerzo extraordinario y por eso creo que merecen una aparición.</p>
+   de esfuerzo extraordinario y por eso creo que merecen una aparición. Esta parte funcionaria como una "galeria",<br>
+   y su codigo snippet estara al final del "readme".</p>
 
 <h3>Footer</h3>
 <img src="./Readme-img/Readme-Footer.png" alt="Imagen de la sección 'Footer'" style="width:50%">
@@ -78,7 +79,7 @@ para dar contexto, el triler, de nuevo, fue sacado del canal de <a href="https:/
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
-  <li>Barra de navegación: tomada de w3Schools "How to" (poner vínculo)</li>
+  <li><a href="https://uiverse.io/alexruix/weak-lionfish-37" target="_blank">Cards de la sección autores</a></li>
   <li>Accordion: ..............</li>
   <li>..........</li>
 </ul>
