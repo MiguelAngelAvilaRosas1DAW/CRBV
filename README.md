@@ -82,6 +82,6 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 <p>I have used the following:</p>
 <ul>
   <li><a href="https://uiverse.io/alexruix/weak-lionfish-37" target="_blank">Authors section cards</a></li>
-  <li>Accordion: ..............</li>
+  <li><a href="https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp" target="_blank">Gallery</li>
   <li>..........</li>
 </ul>
