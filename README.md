@@ -64,8 +64,10 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 <p>The footer includes the game icon image, as well as a summarized version of the navigation bar. In addition, my social media links for YouTube (which features gameplay of this version) and LinkedIn are included.</p>
 
 <h2 id="style">Page Style</h2>
+
 <h3>Color Palette</h3>
-<p>I get the colors of my page based on the color of the corrupted characters of the game; I didn't search for any page.</p>
+<p>I get the colors of my page based on the color of the corrupted characters of the game, I didn't search for any page.</p>
+
 <h3>Typography</h3>
 <p>Here are the links for the two fonts that I used in ny project:</p>
 
@@ -73,11 +75,14 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
   <li><a href="https://fonts.google.com/specimen/EB+Garamond" target="_blank">EBGaramond-Regular</a></li>
   <li><a href="https://fontsgeek.com/fonts/Trajan-Pro-Regular" target="_blank">Trajan Pro Regular</a></li>
 </ul>
+
 <h3>Images</h3>
 <p>.....</p>
+
 <h3>Videos</h3>
-<p>.....</p>
-...................
+<p>The trailer comes from <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>'s youtube channel.</p>
+<p><a href="https://www.youtube.com/watch?v=zXgmTf7k1QI" target="_blank">Link to the trailer</a></p>
+
 <h2 id="snippets">Code Snippets</h2>
 <p>I have used the following:</p>
 <ul>
