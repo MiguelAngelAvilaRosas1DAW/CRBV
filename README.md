@@ -69,7 +69,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 <p>I get the colors of my page based on the color of the corrupted characters of the game, I didn't search for any page.</p>
 
 <h3>Typography</h3>
-<p>Here are the links for the two fonts that I used in ny project:</p>
+<p>Here are the links for the two fonts that I used in my project:</p>
 
 <ul>
   <li><a href="https://fonts.google.com/specimen/EB+Garamond" target="_blank">EBGaramond-Regular</a></li>
