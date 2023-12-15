@@ -35,7 +35,7 @@ popular y modificarlo para que quedara como a mi me gustaba, añadiendo eventos,
 pertenecen a <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, el autor original del Mod, un poco mas abajo se encuentra un boton de descarga<br>para descargar el mod y probarlo por ti mismo.</p>
 
 <h3>Sinopsis</h3>
-<img src="./Readme-img/Readme-Sinopsis.png" alt="Imagen de la sección 'Sinopsis'" style="width:50%">
+<img src="./Readme-img/Readme-Synopsis.png" alt="Imagen de la sección 'Sinopsis'" style="width:50%">
 <p>La sinopsis habla un poco sobre la historia principal del juego, acompañada del trailer del mismo al lado<br>
 para dar contexto, el triler, de nuevo, fue sacado del canal de <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>.</p>
 
@@ -52,7 +52,7 @@ para dar contexto, el triler, de nuevo, fue sacado del canal de <a href="https:/
 </ul>
 
 <h3>Autores</h3>
-<img src="./Readme-img/Readme-Autores.png" alt="Imagen de la sección 'Autores'" style="width:50%">
+<img src="./Readme-img/Readme-Authors.png" alt="Imagen de la sección 'Autores'" style="width:50%">
 <p>En esta sección se encuentran cards de el creador del mod de corrupción, <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>, y el creador original de Funkin<br>Corruption Reimagened, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, con sus enlaces a youtube correspondientes clicando en su imagen de perfil.<br>El snippet de las cards apareceran al final del "readme".</p>
 
 <h3>FanArt</h3>
