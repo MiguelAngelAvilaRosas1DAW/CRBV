@@ -57,8 +57,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 
 <h3>FanArt</h3>
 <img src="./Readme-img/Readme-FanArt.png" alt="Image of the 'FanArt' section" style="width:50%">
-<p>In this last section, I decided to showcase many of the best "FanArts" of the mod. All of these have an extraordinary level of effort, and that's why I believe they deserve an appearance. This part functions as a "gallery,"<br>
-and its code snippet will be at the end of the "readme".</p>
+<p>In this last section, I decided to showcase many of the best "FanArts" of the mod. All of these have an extraordinary level of effort, and that's why I believe they deserve an appearance. This part functions as a "gallery", and its code snippet will be at the end of the "readme".</p>
 
 <h3>Footer</h3>
 <img src="./Readme-img/Readme-Footer.png" alt="Image of the 'Footer' section" style="width:50%">
