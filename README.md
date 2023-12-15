@@ -1,85 +1,82 @@
-<h1>Memoria del proyecto fin de evaluación de Lenguajes de Marcas - 1º DAW</h1>
+<h1>Project Memory for Markup Languages Evaluation - 1st DAW</h1>
 <h2>CRBV - Official Website</h2>
-<h2>Indice</h2>
+<h2>Index</h2>
 <ul>
-  <li><a href="#introduccion">Introducción</a></li>
-  <li><a href="#motivacion">Motivación</a></li>
-  <li><a href="#estructura">Estructura</a></li>
-  <li><a href="#estilo">Estilo</a></li>
+  <li><a href="#introduction">Introduction</a></li>
+  <li><a href="#motivation">Motivation</a></li>
+  <li><a href="#structure">Structure</a></li>
+  <li><a href="#style">Style</a></li>
 </ul>
 
-<h2 id="introduccion">Introducción</h2>
-<p>Trabajo realizado por: Miguel Ángel Ávila Rosas</p>
-<p>Proyecto de web "from scratch" de 1ª evaluación de Lenguajes de Marcas</p>
-<p>Diciembre de 2023 </p>
-<p>Licencia CC-BY</p>
+<h2 id="introduction">Introduction</h2>
+<p>Work done by: Miguel Ángel Ávila Rosas</p>
+<p>Web project "from scratch" for the 1st Markup Languages evaluation</p>
+<p>December 2023</p>
+<p>CC-BY License</p>
 
-<h2 id="motivacion">Motivación</h2>
-<p>El tema elejido proviene de un proyecto que realice en verano, se trataba de coger un "Mod" de un juego<br>
-popular y modificarlo para que quedara como a mi me gustaba, añadiendo eventos, cambiando imagenes, etc...</p>
+<h2 id="motivation">Motivation</h2>
+<p>The chosen theme comes from a project I did in the summer. It involved taking a "Mod" from a popular game<br>
+and modifying it to suit my preferences, adding events, changing images, etc.</p>
 
-<h2 id="estructura">Estructura</h2>
-<p>La web está dividida en 6 secciones:</p>
+<h2 id="structure">Structure</h2>
+<p>The website is divided into 6 sections:</p>
 <ul>
   <li>Hero Section</li>
-  <li>Sinopsis</li>  
-  <li>OST (Soundtrack del juego)</li>
-  <li>Autores</li>
-  <li>FanArt (Galeria)</li>
+  <li>Synopsis</li>
+  <li>OST (Game Soundtrack)</li>
+  <li>Authors</li>
+  <li>FanArt (Gallery)</li>
   <li>Footer</li>
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./Readme-img/Readme-Hero.png" alt="Imagen de la sección 'Hero'" style="width:50%">
-<p>La sección Hero esta compuesta por varias imagenes sacadas de los archivos del Mod, todas las imagenes<br>
-pertenecen a <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, el autor original del Mod, un poco mas abajo se encuentra un boton de descarga<br>para descargar el mod y probarlo por ti mismo.</p>
+<img src="./Readme-img/Readme-Hero.png" alt="Image of the 'Hero' section" style="width:50%">
+<p>The Hero section is composed of several images taken from the Mod's files. All images belong to <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, the original Mod author. Below is a download button<br>to download the mod and try it for yourself.</p>
 
-<h3>Sinopsis</h3>
-<img src="./Readme-img/Readme-Synopsis.png" alt="Imagen de la sección 'Sinopsis'" style="width:50%">
-<p>La sinopsis habla un poco sobre la historia principal del juego, acompañada del trailer del mismo al lado<br>
-para dar contexto, el triler, de nuevo, fue sacado del canal de <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>.</p>
+<h3>Synopsis</h3>
+<img src="./Readme-img/Readme-Synopsis.png" alt="Image of the 'Synopsis' section" style="width:50%">
+<p>The synopsis briefly covers the main story of the game, accompanied by its trailer next to it for context. Once again, the trailer was taken from the channel of <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>.</p>
 
-<h3>OST (Soundtrack del juego)</h3>
-<img src="./Readme-img/Readme-OST.png" alt="Imagen de la sección 'OST'" style="width:50%">
-<p>Esta sección contiene el Soundtrack de todo el juego, sacado de los 5 compositores que hicieron el juego:</p>
+<h3>OST (Game Soundtrack)</h3>
+<img src="./Readme-img/Readme-OST.png" alt="Image of the 'OST' section" style="width:50%">
+<p>This section contains the entire game's soundtrack, taken from the 5 composers who created the game:</p>
 
 <ul>
   <li><a href="https://www.youtube.com/@funnymanisfunny" target="_blank">funny man</a></li>
-  <li><a href="https://www.youtube.com/@blazingrose_5624" target="_blank">ImThatBlueWolf</a></li>  
+  <li><a href="https://www.youtube.com/@blazingrose_5624" target="_blank">ImThatBlueWolf</a></li>
   <li><a href="https://www.youtube.com/@buttercakeee" target="_blank">buttercakeee</a></li>
   <li><a href="https://www.youtube.com/@ValorGenesect" target="_blank">ValorGenesect</a></li>
   <li><a href="https://www.youtube.com/@therealjojo8878" target="_blank">TheRealJojo</a></li>
 </ul>
 
-<h3>Autores</h3>
-<img src="./Readme-img/Readme-Authors.png" alt="Imagen de la sección 'Autores'" style="width:50%">
-<p>En esta sección se encuentran cards de el creador del mod de corrupción, <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>, y el creador original de Funkin<br>Corruption Reimagened, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, con sus enlaces a youtube correspondientes clicando en su imagen de perfil.<br>El snippet de las cards apareceran al final del "readme".</p>
+<h3>Authors</h3>
+<img src="./Readme-img/Readme-Authors.png" alt="Image of the 'Authors' section" style="width:50%">
+<p>In this section, there are cards for the creator of the corruption mod, <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>, and the original creator of Funkin<br>Corruption Reimagined, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, with links to their respective YouTube channels by clicking on their profile images.<br>The snippet of the cards will appear at the end of the "readme".</p>
 
 <h3>FanArt</h3>
-<img src="./Readme-img/Readme-FanArt.png" alt="Imagen de la sección 'FanArt'" style="width:50%">
-<p>En esta ultima sección, he decidido poner muchos de los mejores "FanArts" del mod, todos estos tienen un nivel<br>
-   de esfuerzo extraordinario y por eso creo que merecen una aparición. Esta parte funcionaria como una "galeria",<br>
-   y su codigo snippet estara al final del "readme".</p>
+<img src="./Readme-img/Readme-FanArt.png" alt="Image of the 'FanArt' section" style="width:50%">
+<p>In this last section, I decided to showcase many of the best "FanArts" of the mod. All of these have an extraordinary level of effort, and that's why I believe they deserve an appearance. This part functions as a "gallery,"<br>
+and its code snippet will be at the end of the "readme".</p>
 
 <h3>Footer</h3>
-<img src="./Readme-img/Readme-Footer.png" alt="Imagen de la sección 'Footer'" style="width:50%">
-<p>El footer incluye la imagen del icono del juego, ademas de una versión resumida de la barra de navegación,<br>
-   ademas estan mis redes sociales tanto de youtube (que tiene gameplay de esta versión), como de linkedin.</p>
+<img src="./Readme-img/Readme-Footer.png" alt="Image of the 'Footer' section" style="width:50%">
+<p>The footer includes the game icon image, as well as a summarized version of the navigation bar.<br>
+In addition, my social media links for YouTube (which features gameplay of this version) and LinkedIn are included.</p>
 
-<h2 id="estilo">Estilo de la página</h2>
-<h3>Paleta de colores</h3>
+<h2 id="style">Page Style</h2>
+<h3>Color Palette</h3>
+<p>I get the colors of my page based on the color of the corrupted characters of the game; I didn't search for any page.</p>
+<h3>Typography</h3>
 <p>.....</p>
-<h3>Tipografías</h3>
-<p>.....</p>
-<h3>Imágenes</h3>
+<h3>Images</h3>
 <p>.....</p>
 <h3>Videos</h3>
 <p>.....</p>
 ...................
-<h2 id="snippets">Code snippets</h2>
-<p>He utilizado los siguientes:</p>
+<h2 id="snippets">Code Snippets</h2>
+<p>I have used the following:</p>
 <ul>
-  <li><a href="https://uiverse.io/alexruix/weak-lionfish-37" target="_blank">Cards de la sección autores</a></li>
+  <li><a href="https://uiverse.io/alexruix/weak-lionfish-37" target="_blank">Authors section cards</a></li>
   <li>Accordion: ..............</li>
   <li>..........</li>
 </ul>
