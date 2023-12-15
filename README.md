@@ -61,8 +61,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 
 <h3>Footer</h3>
 <img src="./Readme-img/Readme-Footer.png" alt="Image of the 'Footer' section" style="width:50%">
-<p>The footer includes the game icon image, as well as a summarized version of the navigation bar.<br>
-In addition, my social media links for YouTube (which features gameplay of this version) and LinkedIn are included.</p>
+<p>The footer includes the game icon image, as well as a summarized version of the navigation bar. In addition, my social media links for YouTube (which features gameplay of this version) and LinkedIn are included.</p>
 
 <h2 id="style">Page Style</h2>
 <h3>Color Palette</h3>
