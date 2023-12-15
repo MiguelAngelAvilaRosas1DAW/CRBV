@@ -49,6 +49,8 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
   <li><a href="https://www.youtube.com/@therealjojo8878" target="_blank">TheRealJojo</a></li>
 </ul>
 
+<p>The icons are from the game, and they all belong to <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a></p>
+
 <h3>Authors</h3>
 <img src="./Readme-img/Readme-Authors.png" alt="Image of the 'Authors' section" style="width:50%">
 <p>In this section, there are cards for the creator of the corruption mod, <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>, and the original creator of Funkin<br>Corruption Reimagined, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, with links to their respective YouTube channels by clicking on their profile images.<br>The snippet of the cards will appear at the end of the "readme".</p>
