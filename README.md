@@ -82,6 +82,6 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 <p>I have used the following:</p>
 <ul>
   <li><a href="https://uiverse.io/alexruix/weak-lionfish-37" target="_blank">Authors section cards</a></li>
-  <li><a href="https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp" target="_blank">Gallery</li>
-  <li>..........</li>
+  <li><a href="https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp" target="_blank">Gallery</a></li>
+  <li><a href="https://www.w3schools.com/howto/howto_css_smooth_scroll.asp" target="_blank">Smooth Scroll</a></li>
 </ul>
