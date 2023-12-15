@@ -31,7 +31,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 
 <h3>Hero Section</h3>
 <img src="./Readme-img/Readme-Hero.png" alt="Image of the 'Hero' section" style="width:50%">
-<p>The Hero section is composed of several images taken from the Mod's files. All images belong to <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, the original Mod author. Below is a download button<br>to download the mod and try it for yourself.</p>
+<p>The Hero section is composed of several images taken from the Mod's files. All images belong to <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, the original Mod author. Below is a download button to download the mod and try it for yourself.</p>
 
 <h3>Synopsis</h3>
 <img src="./Readme-img/Readme-Synopsis.png" alt="Image of the 'Synopsis' section" style="width:50%">
