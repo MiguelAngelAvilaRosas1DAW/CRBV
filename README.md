@@ -49,7 +49,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
   <li><a href="https://www.youtube.com/@therealjojo8878" target="_blank">TheRealJojo</a></li>
 </ul>
 
-<p>The icons are from the game, and they all belong to <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a></p>
+<p>The icons are from the game, and they all belong to <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>.</p>
 
 <h3>Authors</h3>
 <img src="./Readme-img/Readme-Authors.png" alt="Image of the 'Authors' section" style="width:50%">
