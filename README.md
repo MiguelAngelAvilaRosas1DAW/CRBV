@@ -53,7 +53,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 
 <h3>Authors</h3>
 <img src="./Readme-img/Readme-Authors.png" alt="Image of the 'Authors' section" style="width:50%">
-<p>In this section, there are cards for the creator of the corruption mod, <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>, and the original creator of Funkin<br>Corruption Reimagined, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, with links to their respective YouTube channels by clicking on their profile images.<br>The snippet of the cards will appear at the end of the "readme".</p>
+<p>In this section, there are cards for the creator of the corruption mod, <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>, and the original creator of Funkin Corruption Reimagined, <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, with links to their respective YouTube channels by clicking on their profile images.<br>The snippet of the cards will appear at the end of the "readme".</p>
 
 <h3>FanArt</h3>
 <img src="./Readme-img/Readme-FanArt.png" alt="Image of the 'FanArt' section" style="width:50%">
