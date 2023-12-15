@@ -67,7 +67,12 @@ In addition, my social media links for YouTube (which features gameplay of this 
 <h3>Color Palette</h3>
 <p>I get the colors of my page based on the color of the corrupted characters of the game; I didn't search for any page.</p>
 <h3>Typography</h3>
-<p>.....</p>
+<p>Here are the links for the two fonts that I used in ny project:</p>
+
+<ul>
+  <li><a href="https://fonts.google.com/specimen/EB+Garamond" target="_blank">EBGaramond-Regular</a></li>
+  <li><a href="https://fontsgeek.com/fonts/Trajan-Pro-Regular" target="_blank">Trajan Pro Regular</a></li>
+</ul>
 <h3>Images</h3>
 <p>.....</p>
 <h3>Videos</h3>
