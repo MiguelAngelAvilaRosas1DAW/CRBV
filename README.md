@@ -77,7 +77,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 </ul>
 
 <h3>Images</h3>
-<p>All the images and videos belongs to <a href="https://twitter.com/FCReimagined" target="_blank">The Reimagened Team</a> and <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a></p>
+<p>All the images and videos belongs to <a href="https://twitter.com/FCReimagined" target="_blank">The Reimagened Team</a> and <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>, except for the <a href="https://www.youtube.com/@PhantomFearYT" target="_blank">Phantom Fear</a>'s icon, which belongs to him.</p>
 
 <h3>Videos</h3>
 <p>The trailer comes from <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>'s youtube channel.</p>
