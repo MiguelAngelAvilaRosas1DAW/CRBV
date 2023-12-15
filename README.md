@@ -77,7 +77,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 </ul>
 
 <h3>Images</h3>
-<p>.....</p>
+<p>All the images and videos belongs to <a href="https://twitter.com/FCReimagined" target="_blank">The Reimagened Team</a> and <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a></p>
 
 <h3>Videos</h3>
 <p>The trailer comes from <a href="https://www.youtube.com/@DyanEstella" target="_blank">DyanEstella</a>'s youtube channel.</p>
