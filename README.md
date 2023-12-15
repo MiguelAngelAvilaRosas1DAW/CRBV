@@ -43,7 +43,7 @@ and modifying it to suit my preferences, adding events, changing images, etc.</p
 
 <ul>
   <li><a href="https://www.youtube.com/@funnymanisfunny" target="_blank">funny man</a></li>
-  <li><a href="https://www.youtube.com/@blazingrose_5624" target="_blank">ImThatBlueWolf</a></li>
+  <li><a href="https://www.youtube.com/@blazingrose_5624" target="_blank">Blazingrose</a></li>
   <li><a href="https://www.youtube.com/@buttercakeee" target="_blank">buttercakeee</a></li>
   <li><a href="https://www.youtube.com/@ValorGenesect" target="_blank">ValorGenesect</a></li>
   <li><a href="https://www.youtube.com/@therealjojo8878" target="_blank">TheRealJojo</a></li>
